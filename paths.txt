@@ -1,0 +1,6 @@
+### Relevant Paths
+
+
+## xCell Coexpression Matrix
+
+/cosmos/data/project-data/NW-rewiring/coExpr/disease/rnkAgg/edge-list/all-matrix 
